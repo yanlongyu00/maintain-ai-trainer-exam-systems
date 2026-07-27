@@ -1,0 +1,4 @@
+interface:
+  display_name: "备考系统维护与发布"
+  short_description: "诊断、预览、审查并安全发布三套人工智能训练师备考系统"
+  default_prompt: "使用 $maintain-ai-trainer-exam-systems 处理这条顾客反馈：先诊断，确认修改后提供预览链接，确认发布后再上线。"
